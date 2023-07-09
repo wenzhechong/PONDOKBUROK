@@ -1,2 +1,2 @@
- Copy PONDOKBUROK folder into Xampp/htdocs /n
- Import database pondokburok into phpmyadmin
+# Copy PONDOKBUROK folder into Xampp/htdocs 
+# Import database pondokburok.sql into phpmyadmin
